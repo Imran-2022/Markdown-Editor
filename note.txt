@@ -3,4 +3,10 @@
 - https://www.npmjs.com/package/react-markdown
 - https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html
 - https://www.markdownguide.org/cheat-sheet/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text/Wrapping_Text
+- https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
 - 
+
+
+commands =
+npm i react-markdown
